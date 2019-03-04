@@ -1,4 +1,4 @@
-<b>CS353 Spring 2019 Project</b>\n
+<b>CS353 Spring 2019 Project</b>/n
 Art Sharing Platform
 
 <font size=200>Reports</font>
