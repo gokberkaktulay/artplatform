@@ -1,2 +1,4 @@
-CS353 Project
-<url>https://docs.google.com/document/d/1Y23aQXv9FmNnEkWb-s0XGmLL528W7BwkzH3ksyal9eg/edit#</url>
+#CS353 Project
+Art Sharing Platform
+
+<url>https://drive.google.com/open?id=1dFiln9QmQQ0jyhNRmOA4KMswBdisnimB</url>
