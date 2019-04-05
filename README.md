@@ -7,3 +7,4 @@ Art Sharing Platform
 <b>Reports:</b>
 
 <a href="https://drive.google.com/open?id=1dFiln9QmQQ0jyhNRmOA4KMswBdisnimB">Proposal</a>
+<a href="https://drive.google.com/open?id=1glKJqggZSKAnIAAzYMV-t5Q0CBuySWHJ">Design</a>
